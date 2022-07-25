@@ -1,4 +1,4 @@
-<h1>Hey, I'm Nathan. Nice to meet you!</h1>
+<h1>Hey, I'm Nathan Agbomedarho. Nice to meet you!</h1>
 
 [![Linkedin](https://img.shields.io/badge/-nathanagbomedarho-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.nathanagbomedarho/)](https://www.linkedin.com/in/nathanagbomedarho/)
 [![Mail](https://img.shields.io/badge/-agbomedn-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agbomedn@mcmaster.ca)](mailto:agbomedn@mcmaster.ca)

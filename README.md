@@ -30,9 +30,9 @@ I'm a <b>Computer Science student at McMaster University</b> in my third year.</
 -------
 <p align="center">
     This <i>README</i> file is generated <b>every 3 hours</b>!
-    <br/>Last refresh: Monday, July 25 at 9:03 AM EDT
+    <br/>Last refresh: Monday, July 25 at 9:06 AM EDT
     <br/>Inspired by <a href="https://github.com/thmsgbrt">Thomas Guibert</a> and his awesome README!
 </p>
 <p align="center">
-    <a href="https://github.com/benjaminkostiuk/benjaminkostiuk/actions/workflows/main.yaml"><img src="https://github.com/benjaminkostiuk/benjaminkostiuk/actions/workflows/main.yaml/badge.svg" /></a>
+    <a href="https://github.com/Meillaya/meillaya/actions/workflows/main.yaml"><img src="https://github.com/Meillaya/meillaya/actions/workflows/main.yaml/badge.svg" /></a>
 </p>

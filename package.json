@@ -2,9 +2,12 @@
   "name": "meillaya",
   "version": "1.0.0",
   "description": "<!--\r **Meillaya/meillaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
-  "main": "index.js",
+  "main": "./prod/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc",
+    "start": "node -r dotenv/config ./prod/index.js",
+    "regen": "rm -rf assets/images && mkdirp assets/images && tsc && node dist/index.js",
+    "serve": "tsc -w"
   },
   "repository": {
     "type": "git",
@@ -17,6 +20,16 @@
   },
   "homepage": "https://github.com/Meillaya/meillaya#readme",
   "dependencies": {
-    "mustache": "^4.2.0"
+    "@types/node": "^18.6.1",
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "mustache": "^4.2.0",
+    "node-html-to-image": "^3.2.4",
+    "puppeteer": "^15.5.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.20.0",
+    "mkdirp": "^1.0.4",
+    "typescript": "^4.7.4"
   }
 }

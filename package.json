@@ -6,7 +6,7 @@
   "scripts": {
     "build": "tsc",
     "start": "node -r dotenv/config ./prod/index.js",
-    "regen": "rm -rf assets/images && mkdirp assets/images && tsc && node dist/index.js",
+    "regen": "rm -rf assets/images && mkdirp assets/images && tsc && node prod/index.js",
     "serve": "tsc -w"
   },
   "repository": {

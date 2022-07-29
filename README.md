@@ -30,11 +30,7 @@ I'm a <b>Computer Science student at McMaster University</b> in my third year.</
 -------
 <p align="center">
     This <i>README</i> file is generated <b>every 3 hours</b>!
-<<<<<<< HEAD
-    <br/>Last refresh: Friday, July 29, 12:39 PM EDT
-=======
-    <br/>Last refresh: Friday, July 29 at 12:39 PM EDT
->>>>>>> c0745bfa111bf0373c04f0624352750f0fc22776
+    <br/>Last refresh: Friday, July 29 at 12:43 PM EDT
     <br/>Inspired by <a href="https://github.com/thmsgbrt">Thomas Guibert</a> and his awesome README!
 </p>
 <p align="center">

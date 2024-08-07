@@ -6,7 +6,7 @@
 
 
 <p>Welcome to my Github! <br/>
-I'm a <b>Computer Science student at McMaster University</b> in my third year.</p>
+I'm a <b>Computer Science graduate from McMaster University</b>.</p>
 
 <h3> What I code with </h3>
 <p>

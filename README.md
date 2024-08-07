@@ -6,7 +6,7 @@
 
 
 <p>Welcome to my Github! <br/>
-I'm a <b>Computer Science graduate from McMaster University</b>.</p>
+I'm a <b>Computer Science student at McMaster University</b> in my third year.</p>
 
 <h3> What I code with </h3>
 <p>
@@ -30,7 +30,7 @@ I'm a <b>Computer Science graduate from McMaster University</b>.</p>
 -------
 <p align="center">
     This <i>README</i> file is generated <b>every 12 hours</b>!
-    <br/>Last refresh: Wednesday, August 7 at 8:11 AM EDT
+    <br/>Last refresh: Wednesday, August 7 at 2:30 PM EDT
     <br/>Inspired by <a href="https://github.com/thmsgbrt">Thomas Guibert</a> and his awesome README!
 </p>
 <p align="center">

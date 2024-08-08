@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey, I'm Nathan. Nice to meet you!</h1>
 
 [![Linkedin](https://img.shields.io/badge/-nathanagbomedarho-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.nathan-agbomedarho/)](https://www.linkedin.com/in/nathan-agbomedarho/)
-
+[![Mail](https://img.shields.io/badge/-agbomedn-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agbomedn@mcmaster.ca)](mailto:agbomedn@mcmaster.ca)
 
 
 
@@ -30,7 +30,7 @@ I'm a <b>Computer Science student at McMaster University</b> in my third year.</
 -------
 <p align="center">
     This <i>README</i> file is generated <b>every 12 hours</b>!
-    <br/>Last refresh: Thursday, August 8 at 8:10 AM EDT
+    <br/>Last refresh: Thursday, August 8 at 1:14 PM EDT
     <br/>Inspired by <a href="https://github.com/thmsgbrt">Thomas Guibert</a> and his awesome README!
 </p>
 <p align="center">

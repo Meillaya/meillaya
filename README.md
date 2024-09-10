@@ -1,5 +1,5 @@
 
-### Hi there, I'm Proyetei! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+### Hi there, I'm Nathan! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 <!--
 **proyetei/proyetei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🏫 I’m a recent Computer Science Graduate (BASc.) from McMaster University and I'm currently looking for full time positions or internship positions in Software Engineering!
 
-- 💻: Currently working on building an interpreter in Rust from scratch and a Compiler in C.
+- 💻: Currently working on building an interpreter in Rust from scratch and a Compiler for C.
 
 <!-- - ⚡: Personal website -> https://meillaya.dev/ -->
 

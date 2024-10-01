@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 
 [![Lannguages](https://skillicons.dev/icons?i=c,go,rust,python,ts,java,haskell,ocaml,zig)](https://skillicons.dev)
 
-[![Frameworks](https://skillicons.dev/icons?i=nodejs,astro,flutter,vue)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=tokio,nodejs,astro,flutter,vue)](https://skillicons.dev)
 
-[![Styling](https://skillicons.dev/icons?i=css,tailwind,styledcomponents)](https://skillicons.dev)
+[![Styling](https://skillicons.dev/icons?i=css,tailwind)](https://skillicons.dev)
 
 [![Database & Deployement](https://skillicons.dev/icons?i=postgres,mysql,mongodb,aws)](https://skillicons.dev)
 

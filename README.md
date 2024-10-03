@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ## My Tech Stack
 
-[![Lannguages](https://skillicons.dev/icons?i=c,go,rust,python,ts,java,haskell,ocaml,zig)](https://skillicons.dev)
+[![Lannguages](https://skillicons.dev/icons?i=c,go,rust,python,ts,java,zig)](https://skillicons.dev)
 
 [![Frameworks](https://skillicons.dev/icons?i=nodejs,astro,flutter,vue)](https://skillicons.dev)
 

@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <!-- - ⚡: Personal website -> https://meillaya.dev/ -->
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nathan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-agbomedarho/)
+
 
 ## My Tech Stack
 

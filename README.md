@@ -30,12 +30,18 @@ Here are some ideas to get you started:
 
 ## My Tech Stack
 
+### Languages
 [![Lannguages](https://skillicons.dev/icons?i=c,go,rust,python,ts,java,zig)](https://skillicons.dev)
 
+### Frameworks
 [![Frameworks](https://skillicons.dev/icons?i=nodejs,astro,flutter,vue)](https://skillicons.dev)
 
+### Styling
 [![Styling](https://skillicons.dev/icons?i=css,tailwind)](https://skillicons.dev)
+
+### Databases
 
 [![Database & Deployement](https://skillicons.dev/icons?i=postgres,mysql,mongodb,aws)](https://skillicons.dev)
 
+### Developement Tools
 [![Developement Tools](https://skillicons.dev/icons?i=linux,latex,git,figma,docker,githubactions,pnpm,figma)](https://skillicons.dev)

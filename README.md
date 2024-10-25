@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 
 ## My Tech Stack
 
-[![Lannguages](https://skillicons.dev/icons?i=c,go,rust,python,ts,java,zig)](https://skillicons.dev)
+[![Lannguages](https://skillicons.dev/icons?i=c,go,rust,python,ts,java,kotlin,zig)](https://skillicons.dev)
 
 
-[![Frameworks](https://skillicons.dev/icons?i=nodejs,astro,flutter,vue)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=nodejs,react,svelte,astro,flutter,vue)](https://skillicons.dev)
 
 
 [![Styling](https://skillicons.dev/icons?i=css,tailwind)](https://skillicons.dev)
@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 [![Database & Deployement](https://skillicons.dev/icons?i=postgres,mysql,mongodb,aws)](https://skillicons.dev)
 
 
-[![Developement Tools](https://skillicons.dev/icons?i=linux,latex,git,figma,docker,githubactions,pnpm,figma)](https://skillicons.dev)
+[![Developement Tools](https://skillicons.dev/icons?i=linux,latex,git,docker,githubactions,pnpm,figma)](https://skillicons.dev)

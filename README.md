@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 [![Styling](https://skillicons.dev/icons?i=css,tailwind)](https://skillicons.dev)
 
-[![Database & Deployement](https://skillicons.dev/icons?i=postgres,mysql,mongodb,aws)](https://skillicons.dev)
+[![Database & Deployement](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,aws)](https://skillicons.dev)
 
 
 [![Developement Tools](https://skillicons.dev/icons?i=linux,latex,git,docker,githubactions,pnpm,figma)](https://skillicons.dev)

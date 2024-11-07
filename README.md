@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 [![Lannguages](https://skillicons.dev/icons?i=c,go,rust,python,ts,kotlin)](https://skillicons.dev)
 
 
-[![Frameworks](https://skillicons.dev/icons?i=nodejs,nextjs,react,svelte,astro,flutter,vue)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=nodejs,nextjs,react,astro,flutter,vue)](https://skillicons.dev)
 
 
 [![Database & Deployement](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,aws)](https://skillicons.dev)

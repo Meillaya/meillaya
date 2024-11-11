@@ -68,3 +68,4 @@ Here are some ideas to get you started:
  - [Kafka](https://github.com/Meillaya/Kafka): A Kafka implementation written in Gleam.
 
 ### 7. Miscellaneous
+  - [JSONParser](https://github.com/Meillaya/JSONParser): A JSON parser in Python.

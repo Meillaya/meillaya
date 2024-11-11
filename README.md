@@ -45,10 +45,10 @@ Here are some ideas to get you started:
  - [Compiler](https://github.com/Meillaya/Compiler): A C compiler written in Rust.
 
 ### 2. Frontend, Backend, Fullstack Developement
- - [Tsune](https://github.com/Meillaya/Tsune): An anime streaming and manga reading website/app.
- - [Mugen](https://github.com/Meillaya/Mugen): A book tracking application.
+ - (WIP)[Tsune](https://github.com/Meillaya/Tsune): An anime streaming and manga reading website/app.
+ - (WIP)[Mugen](https://github.com/Meillaya/Mugen): A book tracking application.
  - [portfolio](https://github.com/Meillaya/portfolio): Portfolio website documenting my blogs and progress reports.
- - [TennoForge](https://github.com/Meillaya/TennoForge): An Open-Source alternative to Overframe for Warframe Builds.
+ - (WIP)[TennoForge](https://github.com/Meillaya/TennoForge): An Open-Source alternative to Overframe for Warframe Builds.
 
 ### 3. Mobile Developement
 
@@ -57,10 +57,10 @@ Here are some ideas to get you started:
 ### 5. Deep Learning
 
 ### 6. Low-Level Programming/Systems Programming
- - [BitTorrent Client](https://github.com/Meillaya/BitTorrentClient): A fully featured BiTorrent Client written in Rust. (Completed)
- - [Redis](https://github.com/Meillaya/Redis): A Redis implementation written in C.
+ - [BitTorrent Client](https://github.com/Meillaya/BitTorrentClient): A fully featured BiTorrent Client written in Rust.
+ - [Redis](https://github.com/Meillaya/Redis): A Redis implementation written in C. 
  - [SQLite](https://github.com/Meillaya/SQLite): An SQLite implementation in Go.
- - [HTTP Server](https://github.com/Meillaya/HTTPServer): A HTTP server implementation written in C. (Completed)
+ - [HTTP Server](https://github.com/Meillaya/HTTPServer): A HTTP server implementation written in C.
  - [Shell](https://github.com/Meillaya/shell): A Shell CLI written in Rust.
  - [Git](https://github.com/Meillaya/Git): A Git implementation written in Rust.
  - [Grep](https://github.com/Meillaya/grep): A Grep implementation written in Go.

@@ -38,3 +38,19 @@ Here are some ideas to get you started:
 
 [![Database & Deployement](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,aws)](https://skillicons.dev)
 
+## Projects
+
+### 1. Compilers, Interpreters, Programming Language, Virtual Machine, Low-Level Programming/Systems Programming
+ -[Lox]([https](https://github.com/Meillaya/Lox): A bytecode interpreter built following [Crafting Interpreters](https://www.craftinginterpreters.com/) and CodeCrafters.
+ -[Compiler]([https](https://github.com/Meillaya/Compiler): A C compiler written in Rust.
+
+### 2. Frontend/Backend/Fullstack Developement
+ -[Tsune](https://github.com/Meillaya/Tsune): An anime streaming and manga reading website/app.
+ -[Mugen](https://github.com/Meillaya/Mugen): A book tracking application.
+ -[portfolio](https://github.com/Meillaya/portfolio): Portfolio website documenting my blogs and progress reports.
+
+### 3. CUDA
+
+### 4. Deep Learning
+
+### 5. Miscellaneous

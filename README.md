@@ -1,30 +1,12 @@
 
 ### Hi there, I'm Nathan! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-<!--
-**proyetei/proyetei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--<div id = "badges">
-  <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt = "Linkedin Badge" />
-</div>-->
 
 - 🏫 I’m a recent Computer Science Graduate (BASc.) from McMaster University and I'm currently looking for full time positions or internship positions in Software Engineering!
 
 - 💻: Currently working on building a Lox interpreter in Rust from scratch and a Compiler for C.
 
-<!-- - ⚡: Personal website -> https://meillaya.dev/ -->
+- ⚡: Personal website -> [Portfolio](https://requios.vercel.app/)
 
 
 

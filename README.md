@@ -40,17 +40,30 @@ Here are some ideas to get you started:
 
 ## Projects
 
-### 1. Compilers, Interpreters, Programming Language, Virtual Machine, Low-Level Programming/Systems Programming
+### 1. Compilers, Interpreters, Programming Language, Virtual Machine
  - [Lox](https://github.com/Meillaya/Lox): An AST interpreter built in Rust following [Crafting Interpreters](https://www.craftinginterpreters.com/) and CodeCrafters.
  - [Compiler](https://github.com/Meillaya/Compiler): A C compiler written in Rust.
 
-### 2. Frontend/Backend/Fullstack Developement
+### 2. Frontend, Backend, Fullstack Developement
  - [Tsune](https://github.com/Meillaya/Tsune): An anime streaming and manga reading website/app.
  - [Mugen](https://github.com/Meillaya/Mugen): A book tracking application.
  - [portfolio](https://github.com/Meillaya/portfolio): Portfolio website documenting my blogs and progress reports.
 
-### 3. CUDA
+### 3. Mobile Developement
 
-### 4. Deep Learning
+### 4. CUDA
 
-### 5. Miscellaneous
+### 5. Deep Learning
+
+### 6. Low-Level Programming/Systems Programming
+ - [BitTorrent Client](https://github.com/Meillaya/BitTorrentClient): A fully featured BiTorrent Client written in Rust. (Completed)
+ - [Redis](https://github.com/Meillaya/Redis): A Redis implementation written in C.
+ - [SQLite](https://github.com/Meillaya/SQLite): An SQLite implementation in Go.
+ - [HTTP Server](https://github.com/Meillaya/HTTPServer): A HTTP server implementation written in C. (Completed)
+ - [Shell](https://github.com/Meillaya/shell): A Shell CLI written in Rust.
+ - [Git](https://github.com/Meillaya/Git): A Git implementation written in Rust.
+ - [Grep](https://github.com/Meillaya/grep): A Grep implementation written in Go.
+ - [DNS Server](https://github.com/Meillaya/DNS-Server): A DNS implementation in Go.
+ - [Kafka](https://github.com/Meillaya/Kafka): A Kafka implementation written in Gleam.
+
+### 7. Miscellaneous

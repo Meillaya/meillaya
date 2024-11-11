@@ -38,5 +38,3 @@ Here are some ideas to get you started:
 
 [![Database & Deployement](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,aws)](https://skillicons.dev)
 
-
-[![Developement Tools](https://skillicons.dev/icons?i=linux,latex,git,docker,githubactions,pnpm,figma)](https://skillicons.dev)

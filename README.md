@@ -4,7 +4,7 @@
 
 - 🏫 I’m a recent Computer Science Graduate (BASc.) from McMaster University and I'm currently looking for full time positions or internship positions in Software Engineering!
 
-- 💻: Currently working on building a Lox interpreter in Rust from scratch and a Compiler for C.
+- 💻: Currently working on building a Lox interpreter in Rust and a Compiler for C.
 
 - ⚡: Personal website -> [Portfolio](https://requios.vercel.app/)
 

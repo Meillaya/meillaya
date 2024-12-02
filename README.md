@@ -6,7 +6,7 @@
 
 - 💻: Currently working on building a Lox interpreter in Rust and a Compiler for C.
 
-- ⚡: Personal website --> [Portfolio](https://requios.vercel.app/).
+- ⚡: Personal website -> [Portfolio](https://requios.vercel.app/).
 
 
 

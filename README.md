@@ -15,10 +15,7 @@
 [![Lannguages](https://skillicons.dev/icons?i=c,go,rust,python,kotlin,ts)](https://skillicons.dev)
 
 
-[![Frameworks](https://skillicons.dev/icons?i=nodejs,nextjs,react,astro,flutter,vue)](https://skillicons.dev)
-
-
-[![Database & Deployement](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,aws)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=nodejs,nextjs,react,astro)](https://skillicons.dev)
 
 ## Projects
 

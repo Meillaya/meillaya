@@ -36,6 +36,7 @@
 ### 5. Deep Learning
 
 ### 6. Low-Level Programming/Systems Programming
+ - [kilo](https://github.com/Meillaya/kilo): A minimal text editor written in pure C.
  - [BitTorrent Client](https://github.com/Meillaya/BitTorrent-Client): A fully featured BiTorrent Client written in Rust.
  - [Redis](https://github.com/Meillaya/Redis): A Redis implementation written in C. 
  - [SQLite](https://github.com/Meillaya/SQLite): An SQLite implementation in Go.

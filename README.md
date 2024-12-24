@@ -12,7 +12,7 @@
 
 ## My Tech Stack
 
-[![Lannguages](https://skillicons.dev/icons?i=c,c++,go,rust,python,ts)](https://skillicons.dev)
+[![Lannguages](https://skillicons.dev/icons?i=c,cplusplus,go,rust,python,ts)](https://skillicons.dev)
 
 
 [![Frameworks](https://skillicons.dev/icons?i=nodejs,nextjs,react,astro)](https://skillicons.dev)

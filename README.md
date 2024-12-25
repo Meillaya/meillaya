@@ -8,6 +8,8 @@
 
 - ⚡: Personal website -> [Portfolio](https://requios.vercel.app/)
 
+- You can reach me at: [Email](nathanagbomed@proton.me)
+
 
 
 ## My Tech Stack

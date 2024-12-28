@@ -17,8 +17,6 @@
 [![Lannguages](https://skillicons.dev/icons?i=c,cpp,go,rust,python,ts)](https://skillicons.dev)
 
 
-[![Frameworks](https://skillicons.dev/icons?i=nodejs,nextjs,react,astro)](https://skillicons.dev)
-
 ## Projects
 
 ### 1. Compilers, Interpreters, Programming Language, Virtual Machine

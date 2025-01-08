@@ -36,7 +36,7 @@
 ### 5. CUDA
 
 ### 6. Deep Learning
- - [tinytensor](https://github.com/Meillaya/tinytensor): A tiny tensor library in pure C. 
+ - (WIP)[tinytensor](https://github.com/Meillaya/tinytensor): A tiny tensor library in pure C. 
  
 ### 7. Miscellaneous
   - [JSONParser](https://github.com/Meillaya/JSONParser): A JSON parser in Python.

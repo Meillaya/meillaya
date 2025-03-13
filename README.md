@@ -34,9 +34,18 @@
 ### 4. Mobile Developement
 
 ### 5. CUDA
+- [tinytensor](https://github.com/Meillaya/tinytensor): A tiny tensor library in pure C.
 
 ### 6. Deep Learning
- - [tinytensor](https://github.com/Meillaya/tinytensor): A tiny tensor library in pure C. 
+ - [tinytensor](https://github.com/Meillaya/tinytensor): A tiny tensor library in pure C.
+ - [GPT-2](https://github.com/Meillaya/gpt-2): Reproduction of GPT-2.
+ - [GPT-2 C](https://github.com/Meillaya/gpt2-C): Implementation of GPT-2 from scratch in C.
+ - [Flash Attention](https://github.com/Meillaya/flash-attention): Flash attention derived and implemented from scratch in CUDA and PyTorch.
+ - [Stable Diffusion](https://github.com/Meillaya/stable-diffusion): Flash attention derived and implemented from scratch in CUDA and PyTorch.
+ - [Transformer](https://github.com/Meillaya/transformer): Transfomer implementation in PyTorch.
+ - [smolneural](https://github.com/Meillaya/smol-neural-network): A tiny neural network implementation in C.
  
 ### 7. Miscellaneous
+  - [PDFParser](https://github.com/Meillaya/PDFParser): PDF parser in C.
+  - [JSONParser](https://github.com/Meillaya/JSONParser-C): A JSON parser in C.
   - [JSONParser](https://github.com/Meillaya/JSONParser): A JSON parser in Python.

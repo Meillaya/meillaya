@@ -39,7 +39,7 @@
 ### 6. Deep Learning
  - [tinytensor](https://github.com/Meillaya/tinytensor): A tiny tensor library in pure C.
  - [GPT-2](https://github.com/Meillaya/gpt-2): Reproduction of GPT-2.
- - [GPT-2 C](https://github.com/Meillaya/gpt2-C): Implementation of GPT-2 from scratch in C.
+ - [GPT-2 C](https://github.com/Meillaya/gpt2-C): Implementation of GPT-2 from in C.
  - [Flash Attention](https://github.com/Meillaya/flash-attention): Flash attention derived and implemented from scratch in CUDA and PyTorch.
  - [Stable Diffusion](https://github.com/Meillaya/stable-diffusion): Stable diffusion implemented from scratch in PyTorch.
  - [Transformer](https://github.com/Meillaya/transformer): Transfomer implementation in PyTorch.

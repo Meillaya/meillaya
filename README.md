@@ -16,7 +16,7 @@
 ## Projects
 
 ### 1. Compilers, Interpreters, Programming Language, Virtual Machine
- - [Lox](https://github.com/Meillaya/Lox): An AST interpreter built in Rust following [Crafting Interpreters](https://www.craftinginterpreters.com/) and CodeCrafters.
+ - [rlox](https://github.com/Meillaya/rlox): An AST interpreter built in Rust following [Crafting Interpreters](https://www.craftinginterpreters.com/) and CodeCrafters.
  - [clox](https://github.com/Meillaya/clox): A Bytecode Virtual Machine written in C following [Crafting Interpreters](https://www.craftinginterpreters.com/).
  - [rustcc](https://github.com/Meillaya/rustcc): A C compiler written in Rust following [Writing a C Compiler](https://norasandler.com/book/#tips-on-extra-credit-features).
  - [tinyvm](https://github.com/Meillaya/vmc): A tiny virtual machine written in C based on LC-3 architecture.

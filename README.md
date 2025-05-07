@@ -22,7 +22,7 @@
  - [tinyvm](https://github.com/Meillaya/vmc): A tiny virtual machine written in C based on LC-3 architecture.
 
 ### 2. Low-Level Programming/Systems Programming
- - [kilo](https://github.com/Meillaya/kilo): A minimal text editor written in pure C.
+ - [kilo](https://github.com/Meillaya/kilo): A minimal text editor written in C.
  - [CodeCrafters](https://github.com/Meillaya/CodeCrafters): A collection of low level design projects, based on CodeCrafters.
 
 ### 3. Frontend, Backend, Fullstack Developement
@@ -33,10 +33,10 @@
 ### 4. Mobile Developement
 
 ### 5. CUDA
-- [tinytensor](https://github.com/Meillaya/tinytensor): A tiny tensor library in pure C.
+- [tinytensor](https://github.com/Meillaya/tinytensor): A tiny tensor library in C.
 
 ### 6. Deep Learning
- - [tinytensor](https://github.com/Meillaya/tinytensor): A tiny tensor library in pure C.
+ - [tinytensor](https://github.com/Meillaya/tinytensor): A tiny tensor library in C.
  - [GPT-2](https://github.com/Meillaya/gpt-2): Reproduction of GPT-2.
  - [GPT-2 C](https://github.com/Meillaya/gpt2-C): Implementation of GPT-2 from in C.
  - [Flash Attention](https://github.com/Meillaya/flash-attention): Flash attention derived and implemented from scratch in CUDA and PyTorch.

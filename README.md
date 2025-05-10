@@ -1,14 +1,8 @@
 
 ### Hi there, I'm Nathan! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-
-- 🏫 I’m a recent Computer Science Graduate (BASc.) from McMaster University and I'm currently looking for full time positions or internship positions in Software Engineering!
-
 - You can reach me at: nathanagbomed@proton.me
 
-
-
-## My Tech Stack
 
 [![Lannguages](https://skillicons.dev/icons?i=c,cpp,go,rust,python,ts)](https://skillicons.dev)
 

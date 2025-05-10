@@ -3,6 +3,7 @@
 
 - You can reach me at: nathanagbomed@proton.me
 
+### Tech Stack:
 
 [![Lannguages](https://skillicons.dev/icons?i=c,cpp,go,rust,python,ts)](https://skillicons.dev)
 

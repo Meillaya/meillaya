@@ -22,7 +22,6 @@
 
 ### 3. Frontend, Backend, Fullstack Developement
  - [Tsune](https://github.com/Meillaya/Tsune): A beautiful anime streaming and manga reading web application.
- - [Mugen](https://github.com/Meillaya/Mugen): A book tracking application.
  - [TennoForge](https://github.com/Meillaya/TennoForge): An Open-Source alternative to Overframe to share Warframe Builds.
 
 ### 4. Mobile Developement

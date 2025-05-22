@@ -5,7 +5,7 @@
 
 ### Tech Stack:
 
-[![Lannguages](https://skillicons.dev/icons?i=c,cpp,go,rust,python,ts)](https://skillicons.dev)
+[![Lannguages](https://skillicons.dev/icons?i=c,cpp,rust,python,ts)](https://skillicons.dev)
 
 
 ## Projects

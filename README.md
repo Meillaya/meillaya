@@ -40,4 +40,4 @@
  
 ### 7. Miscellaneous
   - [PDFParser](https://github.com/Meillaya/PDFParser): PDF parser in C.
-  - [JSONParser](https://github.com/Meillaya/JSONParser): A JSON parser in C.
+  - [JSONParser](https://github.com/Meillaya/JSONParser-C): A JSON parser in C.

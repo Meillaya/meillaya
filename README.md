@@ -24,7 +24,7 @@
  - [Tsune](https://github.com/Meillaya/Tsune): A beautiful anime streaming and manga reading web application.
  - [TennoForge](https://github.com/Meillaya/TennoForge): An Open-Source alternative to Overframe to share Warframe Builds.
 
-### 4. Mobile Developement
+### 4. Databases
 
 ### 5. CUDA
 - [tinytensor](https://github.com/Meillaya/tinytensor): A tiny tensor library in C.

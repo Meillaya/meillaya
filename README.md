@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Nathan! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-- You can reach me at: nathanagbomed@proton.me
+- You can reach me at: nathanagbomed@gmail.com
 
 ### Tech Stack:
 
@@ -36,7 +36,6 @@
  - [Flash Attention](https://github.com/Meillaya/flash-attention): Flash attention derived and implemented from scratch in CUDA and PyTorch.
  - [Stable Diffusion](https://github.com/Meillaya/stable-diffusion): Stable diffusion implemented from scratch in PyTorch.
  - [Transformer](https://github.com/Meillaya/transformer): Transfomer implementation in PyTorch.
- - [smolneural](https://github.com/Meillaya/smol-neural-network): A tiny neural network implementation in C.
  
 ### 7. Miscellaneous
   - [PDFParser](https://github.com/Meillaya/PDFParser): PDF parser in C.

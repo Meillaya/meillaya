@@ -20,7 +20,7 @@
  - [kilo](https://github.com/Meillaya/kilo): A minimal text editor written in C.
  - [CodeCrafters](https://github.com/Meillaya/CodeCrafters): A collection of low level design projects, based on CodeCrafters.
 
-### 3. Frontend, Backend, Fullstack Developement
+### 3. Fullstack Developement
  - [Tsune](https://github.com/Meillaya/Tsune): A beautiful anime streaming and manga reading web application.
  - [TennoForge](https://github.com/Meillaya/TennoForge): An Open-Source alternative to Overframe to share Warframe Builds.
 

@@ -1,6 +1,6 @@
 
 ### Hi there, I'm Nathan! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
-
+- I'm a recent CS New Grad, currently interested in Machine Learning, GPU programming and compilers. 
 - You can reach me at: nathanagbomed@gmail.com
 
 ### Tech Stack:

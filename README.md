@@ -26,7 +26,7 @@
 
 ### 4. Databases
 
-### 5. CUDA
+### 5. CUDA, ROCm
 - [tinytensor](https://github.com/Meillaya/tinytensor): A tiny tensor library in C.
 
 ### 6. Deep Learning

@@ -38,5 +38,4 @@
  - [Transformer](https://github.com/Meillaya/transformer): Transfomer implementation in PyTorch.
  
 ### 7. Miscellaneous
-  - [PDFParser](https://github.com/Meillaya/PDFParser): PDF parser in C.
-  - [JSONParser](https://github.com/Meillaya/JSONParser-C): A JSON parser in C.
+

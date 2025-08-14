@@ -3,8 +3,6 @@
 - I'm a recent CS New Grad, currently interested in machine learning, GPU programming(CUDA, ROCm), databases and compilers. 
 - You can reach me at: nathanagbomed@gmail.com
 
-### Tech Stack:
-
 [![Lannguages](https://skillicons.dev/icons?i=c,cpp,rust,python,ts)](https://skillicons.dev)
 
 

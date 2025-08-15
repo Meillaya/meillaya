@@ -18,16 +18,12 @@
  - [kilo](https://github.com/Meillaya/kilo): A minimal text editor written in C.
  - [CodeCrafters](https://github.com/Meillaya/CodeCrafters): A collection of low level design projects, based on CodeCrafters.
 
-### 3. Fullstack Developement
- - [Tsune](https://github.com/Meillaya/Tsune): A beautiful anime streaming and manga reading web application.
- - [TennoForge](https://github.com/Meillaya/TennoForge): An Open-Source alternative to Overframe to share Warframe Builds.
+### 3. Databases
 
-### 4. Databases
-
-### 5. CUDA, ROCm
+### 4. CUDA, ROCm
 - [tinytensor](https://github.com/Meillaya/tinytensor): A tiny tensor library in C.
 
-### 6. Deep Learning
+### 5. Deep Learning
  - [tinytensor](https://github.com/Meillaya/tinytensor): A tiny tensor library in C.
  - [GPT-2](https://github.com/Meillaya/GPT_2): Reproduction of GPT-2.
  - [GPT-2 C](https://github.com/Meillaya/GPT_2_C): Implementation of GPT-2 from in C.
@@ -35,5 +31,3 @@
  - [Stable Diffusion](https://github.com/Meillaya/stable-diffusion): Stable diffusion implemented from scratch in PyTorch.
  - [Transformer](https://github.com/Meillaya/transformer): Transfomer implementation in PyTorch.
  
-### 7. Miscellaneous
-
